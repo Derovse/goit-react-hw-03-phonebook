@@ -55,7 +55,7 @@ class ContactForm extends Component {
     );
   }
 }
-
+// jopa
 ContactForm.propTypes = {
   addContact: PropTypes.func.isRequired,
 };
